@@ -13,9 +13,8 @@ What are you going to need to run the program.
 If the installer gives you an error download and install this first (https://www.microsoft.com/en-us/download/details.aspx?id=40784 INSTALL 32 & 64-bit)
 
 
-What Database saves.
-![sql](https://user-images.githubusercontent.com/22303383/45485389-26c52d80-b760-11e8-90f8-e0b9fcca5810.PNG)
+
+![What Database saves.](https://imgur.com/a/FDaq0gV)
 
 
-What Database saves.
-![sql](https://imgur.com/a/yu5nRK5)
+![Image description](https://imgur.com/a/yu5nRK5)
