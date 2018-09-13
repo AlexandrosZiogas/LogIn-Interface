@@ -1,6 +1,6 @@
 # LogIn C# SQL SALT SHA256
 
-# What are you going to need to run the program.
+**What are you going to need to run the program.**
 
 1.Xampp (https://www.apachefriends.org/download.html)
 
@@ -12,18 +12,18 @@
 If the installer gives you an error download and install this first (https://www.microsoft.com/en-us/download/details.aspx?id=48145 INSTALL 32 & 64-bit)
 
 
-# DB Data
+**DB Data**
 
 
 ![SQL](https://i.imgur.com/OQ3EfJw.png)
 
-# LogIn Form
+**LogIn Form**
 
 
 ![C#](https://i.imgur.com/xHreORI.png)
 
 
-# Create Form
+**Create Form**
 
 
 ![C#](https://i.imgur.com/XMoqJaj.png)
