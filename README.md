@@ -15,3 +15,7 @@ If the installer gives you an error download and install this first (https://www
 
 What Database saves.
 ![sql](https://user-images.githubusercontent.com/22303383/45485389-26c52d80-b760-11e8-90f8-e0b9fcca5810.PNG)
+
+
+What Database saves.
+![sql](https://imgur.com/a/yu5nRK5)
