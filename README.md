@@ -1,4 +1,4 @@
-# LogIn-C-Sharp-SQL-SALT-SHA256
+# LogIn C# SQL SALT SHA256
 
 
 What are you going to need to run the program.
@@ -14,3 +14,4 @@ If the installer gives you an error download and install this first (https://www
 
 
 What Database saves.
+![sql](https://user-images.githubusercontent.com/22303383/45485389-26c52d80-b760-11e8-90f8-e0b9fcca5810.PNG)
