@@ -12,9 +12,5 @@ What are you going to need to run the program.
 4.Download Connector/ODBC (https://dev.mysql.com/downloads/connector/odbc/5.3.html INSTALL 32 & 64-bit)
 If the installer gives you an error download and install this first (https://www.microsoft.com/en-us/download/details.aspx?id=40784 INSTALL 32 & 64-bit)
 
+![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
 
-
-![What Database saves.](https://imgur.com/a/FDaq0gV)
-
-
-![C#](https://imgur.com/a/yu5nRK5)
