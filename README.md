@@ -1,6 +1,6 @@
 # LogIn-Interface
 
-**What are you going to need to run the program.**
+**Requiments**
 
 **1)** Xampp (https://www.apachefriends.org/download.html)
 
