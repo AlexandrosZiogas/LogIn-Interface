@@ -1,0 +1,11 @@
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\bin\Debug\LogIn.exe
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\bin\Debug\LogIn.pdb
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\obj\Debug\LogIn.csprojAssemblyReference.cache
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\obj\Debug\LogIn.frmCreate.resources
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\obj\Debug\LogIn.exe
+C:\Users\XAOS\Desktop\LogIn-Interface-master\LogIn\obj\Debug\LogIn.pdb
