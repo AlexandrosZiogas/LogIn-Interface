@@ -1,4 +1,5 @@
-Username (test) - Password (test)  
+For testing the program use this to log in.
+Username : test - Password : test
 # LogIn-Interface
 
 **Requiments**
